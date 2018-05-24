@@ -30,6 +30,7 @@ def turn(board)
    else
     puts "try again"
     turn(board)
+  end
 end
 
 board = [" ", " ", " "]
